@@ -4,7 +4,6 @@
 
 US unemployment data from 1976 to 2025, loaded into Snowflake, modeled in Power BI, and published with a drillthrough page for monthly detail.
 
-🔗 [View Live Report](https://app.powerbi.com/groups/me/reports/ee29b8bb-9631-4833-8dad-5b26998cecf1/bc9c4ba182d508685e7b?experience=power-bi)
 
 ---
 
